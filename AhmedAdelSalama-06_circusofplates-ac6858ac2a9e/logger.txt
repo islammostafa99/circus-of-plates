@@ -1,0 +1,10 @@
+Dec 19, 2019 9:32:38 PM eg.edu.alexu.csd.oop.game.View beginning
+INFO: The Game is opened!
+Dec 19, 2019 9:32:42 PM eg.edu.alexu.csd.oop.game.View lambda$paintComponent$1
+INFO: How to play button is selected!
+Dec 19, 2019 9:32:45 PM eg.edu.alexu.csd.oop.game.View lambda$paintComponent$0
+INFO: New Game!
+Dec 19, 2019 9:32:46 PM eg.edu.alexu.csd.oop.game.View lambda$paintComponent$0
+INFO: The level selected is easy!
+Dec 19, 2019 9:32:46 PM eg.edu.alexu.csd.oop.game.world.Circus <init>
+INFO: The score now = 0 || Time now = 59
